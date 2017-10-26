@@ -5,9 +5,13 @@
  */
 package clase3graciela;
 
-/**
- *
+/*******************************************************************************
+ * Graciela Clavel Alvarado
  * @author lp12
+ * Fecha:octubre 26 de 2017
+ * Programa:Clase3Graciela
+ * responsabilidad:clasePrincipal
+ * *****************************************************************************
  */
 public class Clase3Graciela {
 
